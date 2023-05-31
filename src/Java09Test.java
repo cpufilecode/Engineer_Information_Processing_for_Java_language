@@ -4,6 +4,6 @@ public class Java09Test {
         c = b % 5 < 5 ? 1 : 0;
         c = c | c << 3;
         c = a < 5 || c >= 10 ? c - a : c + a;
-
+        System.out.printf("%d", c);
     }
 }
