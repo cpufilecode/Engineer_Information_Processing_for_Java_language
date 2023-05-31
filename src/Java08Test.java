@@ -8,5 +8,12 @@ public class Java08Test {
             else
                 System.out.println(x);
         }
+        else {
+            w=y+z;
+            if(7 == y ^ z !=w)
+                System.out.println(w);
+            else
+                System.out.println(z);
+        }
     }
 }
