@@ -3,9 +3,11 @@ public class Java119_02 {
         int ary[][] = new int[3][5];
         int n = 1;
         for (int i = 0; i < 3; i++) {
-            for(int j = 0; i < 5; j++) {
-
+            for(int j = 0; j < 5; j++) {
+                ary[i][j] = j * 3 + i + 1;
+                System.out.println(ary[i][j] + " ");
             }
+            System.out.println();
         }
     }
 }
