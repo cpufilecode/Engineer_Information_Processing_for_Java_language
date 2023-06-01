@@ -3,7 +3,9 @@ public class Java119_02 {
         int ary[][] = new int[3][5];
         int n = 1;
         for (int i = 0; i < 3; i++) {
+            for(int j = 0; i < 5; j++) {
 
+            }
         }
     }
 }
