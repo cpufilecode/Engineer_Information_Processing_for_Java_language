@@ -1,6 +1,7 @@
 class Class1 {
     Class1() {
-
+        System.out.print('A');
+        this.prn();
     }
     void prn() {
 
