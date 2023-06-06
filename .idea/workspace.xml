@@ -55,27 +55,6 @@
       <option name="presentableId" value="Default" />
       <updated>1683201802999</updated>
     </task>
-    <task id="LOCAL-00045" summary="Changes">
-      <created>1685622764775</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1685622764775</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Changes">
-      <created>1685622767727</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1685622767727</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Changes">
-      <created>1685623240272</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1685623240276</updated>
-    </task>
     <task id="LOCAL-00048" summary="Changes">
       <created>1685623243572</created>
       <option name="number" value="00048" />
@@ -398,7 +377,28 @@
       <option name="project" value="LOCAL" />
       <updated>1686037815353</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Changes">
+      <created>1686049486721</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1686049486721</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Changes">
+      <created>1686049489280</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1686049489280</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Changes">
+      <created>1686049638134</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1686049638134</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
