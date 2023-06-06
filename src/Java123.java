@@ -1,5 +1,8 @@
 class ClassA {
-
+    int a = 10;
+    int funcAdd(int x, int y) {
+        return x + y + a;
+    }
 }
 public class Java123 {
     public static void main(String[] args) {
