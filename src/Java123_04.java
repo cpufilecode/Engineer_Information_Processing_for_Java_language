@@ -1,5 +1,10 @@
 public class Java123_04 {
-
+    public static void main(String args[]) {
+        cond obj = new cond(3);
+        obj.a = 5;
+        int b = obj.func( );
+        System.out.print(obj.a + b);
+    }
 }
 
 class cond {
