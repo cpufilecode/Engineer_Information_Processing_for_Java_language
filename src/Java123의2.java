@@ -9,7 +9,8 @@ class Class1 {
 }
 class Class2 extends Class1  {
     Class2() {
-
+        super();
+        System.out.print('D');
     }
     void prn() {
 
