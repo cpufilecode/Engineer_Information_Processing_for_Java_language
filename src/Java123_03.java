@@ -10,4 +10,7 @@ class B extends A {
     }
 }
 public class Java123_03 {
+    public static void main(String[] args) {
+        B obj = new B(10);
+    }
 }
