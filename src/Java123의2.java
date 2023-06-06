@@ -23,5 +23,6 @@ public class Java123의2 {
     public static void main(String[] args) {
         int x = 7;
         Class2 cal = new Class2();
+        cal.prn(x);
     }
 }
