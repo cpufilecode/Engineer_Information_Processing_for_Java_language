@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ccb1fe8-8423-45be-a66b-9882d8da7727" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/src/Java123_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java123_04.java" afterDir="false" />
-    </list>
+    <list default="true" id="2ccb1fe8-8423-45be-a66b-9882d8da7727" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,13 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683201802999</updated>
-    </task>
-    <task id="LOCAL-00063" summary="Changes">
-      <created>1685625439609</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1685625439609</updated>
     </task>
     <task id="LOCAL-00064" summary="Changes">
       <created>1685625911979</created>
@@ -397,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686062821495</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="Changes">
+      <created>1686062884071</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1686062884071</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
