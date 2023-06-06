@@ -16,7 +16,7 @@ class Class2 extends Class1  {
         System.out.print('E');
     }
     void prn(int x) {
-
+        System.out.print(x);
     }
 }
 public class Java123의2 {
