@@ -4,7 +4,7 @@ class Class1 {
         this.prn();
     }
     void prn() {
-
+        System.out.print('B');
     }
 }
 class Class2 extends Class1  {
