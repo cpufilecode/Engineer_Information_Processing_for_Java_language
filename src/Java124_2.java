@@ -1,3 +1,9 @@
+abstract class Vehicle {
+
+}
+class Car extends Vehicle {
+
+}
 public class Java124_2 {
     public static void main(String[] args) {
         Vehicle obj = new Car("Spark");
