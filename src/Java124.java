@@ -13,7 +13,7 @@ class Chicken extends Animal {
         System.out.println("Chicken" + a);
     }
     void display() {
-
+        System.out.println("two wings");
     }
 }
 public class Java124 {
