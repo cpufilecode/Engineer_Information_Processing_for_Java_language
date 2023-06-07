@@ -1,5 +1,6 @@
 abstract class Vehicle {
-
+    String name;
+    abstract public String getName(String val);
 }
 class Car extends Vehicle {
 
