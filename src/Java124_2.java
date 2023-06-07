@@ -6,7 +6,10 @@ abstract class Vehicle {
     }
 }
 class Car extends Vehicle {
-
+    private String name;
+    public Car(String val) {
+        name = super.name = val;
+    }
 }
 public class Java124_2 {
     public static void main(String[] args) {
