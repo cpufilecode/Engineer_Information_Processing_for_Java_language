@@ -18,6 +18,7 @@ class Chicken extends Animal {
 }
 public class Java124 {
     public static void main(String[] args) {
-
+        Animal a = new Chicken();
+        a.show();
     }
 }
