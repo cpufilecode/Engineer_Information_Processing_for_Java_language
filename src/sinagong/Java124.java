@@ -1,3 +1,5 @@
+package sinagong;
+
 abstract class Animal {
     String a = " is animal";
     abstract void look();
@@ -10,7 +12,7 @@ class Chicken extends Animal {
         look();
     }
     void look() {
-        System.out.println("Chicken" + a);
+        System.out.println("sinagong.Chicken" + a);
     }
     void display() {
         System.out.println("two wings");

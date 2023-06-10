@@ -1,3 +1,5 @@
+package sinagong;
+
 public class Java123_04 {
     public static void main(String args[]) {
         cond obj = new cond(3);

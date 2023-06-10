@@ -1,3 +1,5 @@
+package sinagong;
+
 class a {
     int a;
     int b;

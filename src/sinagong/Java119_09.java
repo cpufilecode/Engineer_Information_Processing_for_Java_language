@@ -1,3 +1,5 @@
+package sinagong;
+
 public class Java119_09 {
     public static void main(String[] args) {
         int r = 0;

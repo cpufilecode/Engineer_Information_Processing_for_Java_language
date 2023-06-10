@@ -1,7 +1,9 @@
+package sinagong;
+
 class A {
     int a;
     public A(int a) { this.a = a; }
-    void display() { System.out.println("a=" + a); }
+    void display() { System.out.println("sinagong.a=" + a); }
 }
 class B extends A {
     public B(int a) {

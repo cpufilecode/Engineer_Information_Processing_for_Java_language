@@ -1,3 +1,5 @@
+package sinagong;
+
 public class Java119_04 {
     public static void main(String[] args) {
         int a = 0, sum = 0;

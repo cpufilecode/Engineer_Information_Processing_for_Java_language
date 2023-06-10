@@ -1,3 +1,5 @@
+package sinagong;
+
 public class Java123_02 {
     static int[] arr() {
         int a[] = new int[4];

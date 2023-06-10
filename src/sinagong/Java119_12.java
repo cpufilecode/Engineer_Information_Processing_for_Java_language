@@ -1,3 +1,5 @@
+package sinagong;
+
 public class Java119_12 {
     public static void main(String[] args) {
         int aa[][] = { {45, 50, 75},

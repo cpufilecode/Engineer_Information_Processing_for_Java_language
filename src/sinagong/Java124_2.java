@@ -1,8 +1,10 @@
+package sinagong;
+
 abstract class Vehicle {
     String name;
     abstract public String getName(String val);
     public String getName() {
-        return "Vehicle name : " + name;
+        return "sinagong.Vehicle name : " + name;
     }
 }
 class Car extends Vehicle {
@@ -11,10 +13,10 @@ class Car extends Vehicle {
         name = super.name = val;
     }
     public String getName(String val) {
-        return "Car name : " + val;
+        return "sinagong.Car name : " + val;
     }
     public String getName(byte[] val) {
-        return "Car name : " + val;
+        return "sinagong.Car name : " + val;
     }
 }
 public class Java124_2 {

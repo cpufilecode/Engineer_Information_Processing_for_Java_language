@@ -1,3 +1,5 @@
+package sinagong;
+
 public class Java118_09 {
     public static void main(String[] args) {
         int a = 5, b = 9, c;

@@ -1,3 +1,5 @@
+package sinagong;
+
 public class Java119_01 {
     public static void main(String[] args) {
         int[] a = new int[8];

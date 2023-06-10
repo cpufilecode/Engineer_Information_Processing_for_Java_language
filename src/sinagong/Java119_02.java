@@ -1,3 +1,5 @@
+package sinagong;
+
 public class Java119_02 {
     public static void main(String[] args) {
         int ary[][] = new int[3][5];

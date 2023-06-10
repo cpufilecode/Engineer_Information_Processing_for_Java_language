@@ -1,3 +1,5 @@
+package sinagong;
+
 class ClassA {
     int a = 10;
     int funcAdd(int x, int y) {

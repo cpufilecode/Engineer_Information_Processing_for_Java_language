@@ -1,3 +1,5 @@
+package sinagong;
+
 class parent {
     int compute(int num) {
         if(num <= 1) return num;
